@@ -76,6 +76,7 @@ nav{
 .searchBar{
     display: flex;
     justify-content: center;
+    margin-top: 8px;
 }
     
 }
